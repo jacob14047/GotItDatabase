@@ -11,5 +11,5 @@ Database schema for e-commerce sites.
 
 ## Diagram
 
-[![Diagram](E_Commerce_DB/diagram.png)](docs/manual.pdf)
+[![Diagram](E_Commerce_DB/diagram.png)](E_Commerce_DB/manual.pdf)
 
