@@ -2,6 +2,8 @@ Database schema for e-commerce sites.
 
 ## Description
 
+The diagram represents a generic base for web stores.
+The diagram was created using <a href="[draw.io](https://app.diagrams.net/)">
 
 ## Requirements
 
