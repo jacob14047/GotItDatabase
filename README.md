@@ -11,7 +11,7 @@ Database schema for e-commerce sites.
 
 ## Diagram
 
-- **You can click on the immage in order to open the manual (in italian) **
+ **You can click on the immage in order to open the manual (in italian)**
 
 [![Diagram](E_Commerce_DB/diagram.png)](E_Commerce_DB/manual.pdf)
 
