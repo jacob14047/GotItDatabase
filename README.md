@@ -11,4 +11,5 @@ Database schema for e-commerce sites.
 
 ## Diagram
 
-![Diagram](E_Commerce_DB/Screenshot 2025-09-29 at 15-31-40 Progetto basi di dati(Staiano-Tullo) (1).pdf.png)
+[![Diagram](E_Commerce_DB/Screenshot 2025-09-29 at 15-31-40 Progetto basi di dati(Staiano-Tullo) (1).pdf.png)](docs/Progetto basi di dati(Staiano-Tullo) (1).pdf)
+
